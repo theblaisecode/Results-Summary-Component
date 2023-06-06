@@ -1,0 +1,113 @@
+/* ---------------------------------- Responsive Media Queries---------------------------------- */
+/******************************************
+/* Smartphone
+/*******************************************/
+@media screen and (max-width: 675px) {
+   main {
+      display: block;
+   }
+
+   #card {
+      background: var(--white);
+      width: 100%;
+      height: 100%;
+      border-radius: 0;
+      box-shadow: none;
+   }
+
+   .card-content {
+      flex-direction: column;
+      height: 100%;
+      width: 100%;
+   }
+
+   .card-content > div {
+      flex: 1;
+      padding: 3rem 4rem;
+   }
+
+   .card-content .content-top {
+      border-radius: 0rem 0rem 3rem 3rem;
+   }
+
+   .circle {
+      padding: 3rem 4rem;
+   }
+
+   h1 {
+      font-size: 5rem;
+   }
+
+   h2 {
+      font-size: 2.5rem;
+   }
+
+   h3 {
+      font-size: 1.8rem;
+   }
+
+   .bottom p {
+      padding: 1rem 5rem;
+   }
+
+   .card-content .content-botttom {
+      border-radius: 0rem 0rem 3rem 3rem;
+      height: 100%;
+   }
+
+   .result {
+      height: 75%;
+   }
+
+   .highlight {
+      padding: 1.5rem 1rem;
+   }
+
+   .btn {
+      padding: 1.5rem;
+   }
+}
+
+/******************************************
+/* Tablet
+/*******************************************/
+@media (min-width: 676px) and (max-width: 768px) {
+   #card {
+      background: var(--white);
+      width: 85%;
+      height: 60%;
+   }
+}
+
+/******************************************
+/* Laptop
+/*******************************************/
+@media (min-width: 769px) and (max-width: 1439px) {
+   #card {
+      background: var(--white);
+      width: 55%;
+      height: 55%;
+   }
+}
+
+/******************************************
+/* Widescreen
+/*******************************************/
+@media (min-width: 1440px) and (max-width: 1899px) {
+   #card {
+      background: var(--white);
+      width: 50%;
+      height: 55%;
+   }
+}
+
+/******************************************
+/* Ultra Widescreen
+/*******************************************/
+@media (min-width: 1880px) and (max-width: 1900px) {
+   #card {
+      background: var(--white);
+      width: 40%;
+      height: 35%;
+   }
+}

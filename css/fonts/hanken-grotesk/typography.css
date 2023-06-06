@@ -1,0 +1,63 @@
+@font-face {
+   font-family: "Hanken Grotesk";
+   font-style: normal;
+   font-weight: 900;
+   src: local("Hanken Grotesk Black"),
+      url("HankenGrotesk-Black.woff") format("woff");
+}
+
+@font-face {
+   font-family: "Hanken Grotesk";
+   font-style: normal;
+   font-weight: 800;
+   src: local("Hanken Grotesk Extra Bold"),
+      url("HankenGrotesk-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+   font-family: "Hanken Grotesk";
+   font-style: normal;
+   font-weight: 700;
+   src: local("Hanken Grotesk Bold"),
+      url("HankenGrotesk-Bold.woff") format("woff");
+}
+
+@font-face {
+   font-family: "Hanken Grotesk";
+   font-style: normal;
+   font-weight: 600;
+   src: local("Hanken Grotesk Semi Bold"),
+      url("HankenGrotesk-SemiBold.woff") format("woff");
+}
+
+@font-face {
+   font-family: "Hanken Grotesk";
+   font-style: normal;
+   font-weight: 500;
+   src: local("Hanken Grotesk Medium"),
+      url("HankenGrotesk-Medium.woff") format("woff");
+}
+
+@font-face {
+   font-family: "Hanken Grotesk";
+   font-style: normal;
+   font-weight: 400;
+   src: local("Hanken Grotesk Regular"),
+      url("HankenGrotesk-Regular.woff") format("woff");
+}
+
+@font-face {
+   font-family: "Hanken Grotesk";
+   font-style: normal;
+   font-weight: 300;
+   src: local("Hanken Grotesk Light"),
+      url("HankenGrotesk-Light.woff") format("woff");
+}
+
+@font-face {
+   font-family: "Hanken Grotesk";
+   font-style: normal;
+   font-weight: 100;
+   src: local("Hanken Grotesk Extra Light"),
+      url("HankenGrotesk-ExtraLight.woff") format("woff");
+}
