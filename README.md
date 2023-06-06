@@ -10,6 +10,10 @@ Link to the challenge - [Results summary component](https://www.frontendmentor.i
 
 ![App Screenshot](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/aqbssn4qnnb7jwp9kbw2.jpg)
 
+## Tech Stack
+
+HTML, CSS
+
 
 ## Authors
 
